@@ -1,470 +1,252 @@
-13:04:10.606 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-13:04:10.837 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-13:04:11.521 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-13:04:15.910 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-13:04:15.993 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-08:44:47.579 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-08:44:47.758 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-08:44:48.101 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-08:44:48.848 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-08:48:29.940 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-08:48:30.137 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-08:48:30.540 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-08:48:32.813 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-08:48:32.849 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
-09:21:43.901 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-09:21:44.056 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-09:21:44.450 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-09:21:46.145 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-09:21:46.184 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-09:22:20.828 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-09:22:21.011 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-09:22:21.413 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-09:22:23.809 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-09:22:23.857 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-09:26:51.219 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-09:26:51.381 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-09:26:51.742 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-09:26:53.335 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-09:26:53.390 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-09:26:55.059 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-09:26:55.168 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-09:26:55.585 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-09:26:56.223 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-09:26:56.995 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-09:27:34.649 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-09:27:34.791 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-09:27:34.794 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-09:27:35.182 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-09:27:35.253 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-09:27:35.849 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-09:27:36.749 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-09:27:41.042 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-09:27:41.117 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-09:27:41.126 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-09:58:07.795 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-09:58:07.935 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-09:58:08.299 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-09:58:09.026 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-09:58:10.525 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:09:52.648 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:09:52.684 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:09:52.882 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:09:53.289 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:09:54.274 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:09:54.304 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:12:42.175 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:12:42.334 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+14:53:34.173 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+14:53:34.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:12:44.286 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:12:44.301 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:12:44.387 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:12:44.835 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:12:44.912 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:12:46.435 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:13:51.732 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:13:52.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+14:53:39.695 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+14:53:41.959 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+14:53:41.961 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+14:53:42.065 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+14:53:42.625 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+14:53:42.691 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+14:53:43.518 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+14:53:45.349 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+14:53:45.350 [main] INFO  testCases.TC004_SearchTest - Entering product name
+14:53:45.467 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+14:53:45.765 [main] INFO  testCases.TC004_SearchTest - Validating search results
+14:53:45.796 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+14:53:47.429 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+14:53:47.835 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+15:11:01.984 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+15:11:02.208 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:14:13.564 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:14:14.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+15:11:07.382 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+15:11:08.900 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+15:11:08.900 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+15:11:09.438 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+15:11:09.960 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+15:11:11.109 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+15:11:11.160 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:11:12.598 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+15:11:12.601 [main] INFO  testCases.TC004_SearchTest - Entering product name
+15:11:13.037 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+15:11:13.371 [main] INFO  testCases.TC004_SearchTest - Validating search results
+15:11:13.401 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+15:11:14.924 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+15:11:15.613 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+15:11:17.497 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+15:11:17.497 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+15:11:17.925 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+15:11:17.977 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+15:11:18.408 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+15:11:18.480 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+15:11:18.697 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+16:45:55.325 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+16:45:55.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:16:02.625 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:16:03.079 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+16:46:01.061 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+16:46:02.494 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+16:46:02.495 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+16:46:02.952 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+16:46:03.612 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+16:46:03.673 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+16:46:05.188 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:46:06.684 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+16:46:06.687 [main] INFO  testCases.TC004_SearchTest - Entering product name
+16:46:07.292 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+16:46:07.687 [main] INFO  testCases.TC004_SearchTest - Validating search results
+16:46:07.715 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+16:46:10.351 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+16:46:10.830 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+16:46:12.940 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+16:46:12.941 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+16:46:13.394 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+16:46:13.420 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+16:46:13.926 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+16:46:14.031 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+16:46:14.230 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+16:46:16.215 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Starting Remove From Cart Test *****
+16:46:17.236 [main] INFO  testCases.TC007_RemoveFromCartTest - Opening Shopping Cart
+16:46:17.520 [main] INFO  testCases.TC007_RemoveFromCartTest - Removing Product
+16:46:17.627 [main] INFO  testCases.TC007_RemoveFromCartTest - Validating Empty Cart Message
+16:50:45.697 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+16:50:45.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:19:56.551 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:19:57.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+16:50:50.763 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+16:50:52.619 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+16:50:52.620 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+16:50:52.720 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+16:50:53.348 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+16:50:53.423 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+16:50:54.443 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:50:56.106 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+16:50:56.107 [main] INFO  testCases.TC004_SearchTest - Entering product name
+16:50:56.274 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+16:50:56.724 [main] INFO  testCases.TC004_SearchTest - Validating search results
+16:50:56.751 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+16:50:58.367 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+16:50:58.766 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+16:51:00.544 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+16:51:00.545 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+16:51:00.953 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+16:51:00.984 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+16:51:01.547 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+16:51:01.620 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+16:51:02.336 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+16:51:04.242 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Starting Remove From Cart Test *****
+16:51:05.501 [main] INFO  testCases.TC007_RemoveFromCartTest - Opening Shopping Cart
+16:51:06.306 [main] INFO  testCases.TC007_RemoveFromCartTest - Removing Product
+16:51:06.388 [main] INFO  testCases.TC007_RemoveFromCartTest - Validating Empty Cart Message
+16:51:06.975 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Remove From Cart Test Passed *****
+17:12:22.205 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+17:12:22.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:26:30.145 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:26:30.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+17:12:28.060 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:12:30.018 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+17:12:30.020 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+17:12:30.123 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+17:12:30.688 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+17:12:30.742 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+17:12:31.830 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:12:33.551 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+17:12:33.554 [main] INFO  testCases.TC004_SearchTest - Entering product name
+17:12:33.683 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+17:12:34.001 [main] INFO  testCases.TC004_SearchTest - Validating search results
+17:12:34.035 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+17:12:35.834 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+17:12:36.234 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+17:12:38.120 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+17:12:38.121 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+17:12:38.751 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+17:12:38.802 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+17:12:39.259 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+17:12:39.371 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+17:12:39.697 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+17:12:41.580 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Starting Remove From Cart Test *****
+17:12:42.531 [main] INFO  testCases.TC007_RemoveFromCartTest - Opening Shopping Cart
+17:12:43.558 [main] INFO  testCases.TC007_RemoveFromCartTest - Removing Product
+17:12:43.649 [main] INFO  testCases.TC007_RemoveFromCartTest - Validating Empty Cart Message
+17:12:44.256 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Remove From Cart Test Passed *****
+17:17:18.200 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+17:17:18.478 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:12:13.292 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-11:12:13.812 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-11:12:18.699 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:12:19.293 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:12:19.772 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:12:22.361 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:12:22.425 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:12:25.363 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:12:25.365 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:12:25.560 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:12:26.387 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:12:27.421 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:12:27.490 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:14:09.203 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-11:14:09.644 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-11:14:21.710 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-11:14:22.166 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-11:14:53.310 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-11:14:53.789 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-11:23:29.907 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-11:23:30.406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-11:25:35.681 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-11:25:36.154 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-11:30:22.406 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-11:30:22.887 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-14:48:46.854 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-14:48:47.129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-14:51:51.604 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-14:51:51.795 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-14:51:58.278 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
-14:52:03.032 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
-14:52:03.043 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
-14:52:16.955 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
-14:52:16.984 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
-14:52:30.861 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
-14:52:30.867 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
-14:52:44.651 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
-14:52:44.661 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
-14:52:48.742 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
-16:08:38.917 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-16:08:39.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-16:08:42.353 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-16:08:42.507 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-16:08:42.835 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-16:08:44.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-16:08:44.803 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-16:08:46.331 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-16:08:46.331 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-16:08:46.421 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-16:08:46.908 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-16:08:46.993 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-16:08:48.170 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:16:36.976 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-16:16:37.196 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-16:16:39.947 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-16:16:40.093 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-16:16:40.426 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-16:16:42.460 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-16:16:42.503 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-16:16:45.646 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-16:16:45.647 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-16:16:45.736 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-16:16:46.383 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-16:16:46.463 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-16:16:49.681 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:24:31.500 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
-16:24:31.717 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grouping.xml
-
-16:24:34.045 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-16:24:34.251 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-16:24:34.621 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-16:24:35.148 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-16:24:37.108 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-16:24:38.809 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-16:24:38.810 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-16:24:38.923 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-16:24:39.524 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-16:24:39.583 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-16:24:44.979 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:18:35.298 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:18:35.494 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+17:17:23.352 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:17:25.269 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+17:17:25.274 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+17:17:25.390 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+17:17:25.938 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+17:17:26.014 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+17:17:26.969 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:17:28.757 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+17:17:28.759 [main] INFO  testCases.TC004_SearchTest - Entering product name
+17:17:28.896 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+17:17:29.171 [main] INFO  testCases.TC004_SearchTest - Validating search results
+17:17:29.218 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+17:17:30.627 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+17:17:31.383 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+17:17:32.799 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+17:17:32.800 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+17:17:33.573 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+17:17:33.608 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+17:17:33.945 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+17:17:33.999 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+17:17:34.192 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+17:17:35.939 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Starting Remove From Cart Test *****
+17:17:36.835 [main] INFO  testCases.TC007_RemoveFromCartTest - Opening Shopping Cart
+17:17:37.096 [main] INFO  testCases.TC007_RemoveFromCartTest - Removing Product
+17:17:37.184 [main] INFO  testCases.TC007_RemoveFromCartTest - Validating Empty Cart Message
+17:17:37.510 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Remove From Cart Test Passed *****
+17:32:42.529 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+17:32:42.881 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:26:44.553 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:26:44.774 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+17:32:48.025 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:32:50.145 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+17:32:50.146 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+17:32:50.275 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+17:32:51.000 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+17:32:51.080 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+17:32:52.144 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:32:53.932 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+17:32:53.935 [main] INFO  testCases.TC004_SearchTest - Entering product name
+17:32:54.083 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+17:32:54.417 [main] INFO  testCases.TC004_SearchTest - Validating search results
+17:32:54.451 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+17:32:56.374 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+17:32:56.790 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+17:32:58.647 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+17:32:58.647 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+17:32:59.052 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+17:32:59.079 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+17:32:59.473 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+17:32:59.545 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+17:32:59.721 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+17:33:01.481 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Starting Remove From Cart Test *****
+17:33:03.261 [main] INFO  testCases.TC007_RemoveFromCartTest - Opening Shopping Cart
+17:33:03.882 [main] INFO  testCases.TC007_RemoveFromCartTest - Removing Product
+17:33:03.994 [main] INFO  testCases.TC007_RemoveFromCartTest - Validating Empty Cart Message
+17:33:04.391 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Remove From Cart Test Passed *****
+17:38:00.977 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+17:38:01.219 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:36:53.580 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:36:53.809 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+17:38:06.742 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:38:08.815 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+17:38:08.816 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+17:38:08.932 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+17:38:09.470 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+17:38:11.405 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+17:38:11.449 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:38:13.287 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+17:38:13.289 [main] INFO  testCases.TC004_SearchTest - Entering product name
+17:38:13.416 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+17:38:13.725 [main] INFO  testCases.TC004_SearchTest - Validating search results
+17:38:13.801 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+17:38:15.622 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+17:38:16.031 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+17:38:17.843 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+17:38:17.844 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+17:38:18.288 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+17:38:18.332 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+17:38:18.684 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+17:38:18.757 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+17:38:18.935 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+17:38:20.824 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Starting Remove From Cart Test *****
+17:38:21.727 [main] INFO  testCases.TC007_RemoveFromCartTest - Opening Shopping Cart
+17:38:22.073 [main] INFO  testCases.TC007_RemoveFromCartTest - Removing Product
+17:38:22.172 [main] INFO  testCases.TC007_RemoveFromCartTest - Validating Empty Cart Message
+17:38:22.489 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Remove From Cart Test Passed *****
+17:44:04.851 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+17:44:05.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
 
-11:36:57.096 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:36:57.274 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:36:57.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:36:59.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:36:59.508 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:37:01.171 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:37:01.172 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:37:01.272 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:37:01.780 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:37:01.832 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:37:03.635 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:41:39.710 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:41:39.954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
-
-11:41:43.155 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:41:43.314 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:41:43.706 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:41:48.363 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:41:48.420 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:41:49.982 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:41:49.982 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:41:50.391 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:41:51.084 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:41:51.153 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:41:54.732 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:42:45.066 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:42:45.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
-
-11:42:47.732 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:42:47.902 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:42:48.367 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:42:50.575 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:42:50.659 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:42:52.687 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:42:52.687 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:42:52.815 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:42:53.356 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:42:53.429 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:42:54.753 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:44:46.968 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
-11:44:47.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml
-
-11:44:48.916 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:44:49.332 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:44:49.739 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:44:50.733 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:44:50.858 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:44:52.110 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:44:52.445 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:44:52.514 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:45:37.593 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
-11:45:37.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml
-
-11:45:40.105 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:45:40.254 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:45:40.399 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:45:40.440 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:46:45.930 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
-11:46:46.139 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml
-
-11:46:48.604 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:46:48.813 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:46:48.954 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:46:49.014 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:47:03.032 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:47:03.035 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:47:03.148 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:47:03.871 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:47:06.266 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:47:06.304 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:56:01.717 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
-11:56:01.926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\crossbrowsertesting.xml
-
-11:56:04.256 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:56:04.538 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:56:05.014 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:56:05.123 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:56:05.762 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:56:06.093 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:56:09.681 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:56:09.723 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:56:09.757 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:56:09.807 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:56:11.881 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:56:11.882 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:56:12.001 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:56:12.682 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:56:12.751 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:56:13.894 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:56:29.542 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:56:29.729 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml
-
-11:56:32.334 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:56:32.502 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:56:32.984 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:56:36.645 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:56:36.706 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:56:38.667 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:56:38.669 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:56:38.776 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:56:39.337 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:56:39.423 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:56:40.580 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:14:08.754 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-11:14:09.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-11:19:15.008 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-11:19:15.581 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-11:19:24.041 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:19:24.542 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:19:25.657 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:19:29.339 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:19:29.477 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:19:31.918 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:19:31.920 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:22:13.172 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-11:22:13.741 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-11:22:18.055 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Started TC001_AccountRegistrationTest****
-11:22:18.587 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount......
-11:22:19.491 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register......
-11:22:23.723 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message......
-11:22:23.948 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:22:26.504 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:22:26.506 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:22:48.353 [main] ERROR testCases.TC002_LoginTest - Exception occurred
-org.openqa.selenium.WebDriverException: tab crashed
-  (Session info: chrome=148.0.7778.178) (error code: "tab crashed")
-Build info: version: '4.43.0', revision: 'dd0f534'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [db8be453ebee66e771f5c265cff2f1e7, findElement {value=//a[@title='My Account'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.178, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: /tmp/org.chromium.Chromium....}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:33673}, goog:processID: 939, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 148.0.7778.178, se:containerName: b6f4d477b4cf, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: db8be453ebee66e771f5c265cff2f1e7
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:172)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:142)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:223)
-	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:606)
-	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:166)
-	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:429)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:423)
-	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:222)
-	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:215)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:210)
-	at pageObject.HomePage.clickMyAccount(HomePage.java:42)
-	at testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:744)
-	at org.testng.TestRunner.run(TestRunner.java:616)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-	at org.testng.TestNG.runSuites(TestNG.java:1112)
-	at org.testng.TestNG.run(TestNG.java:1079)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-09:41:08.818 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-09:41:09.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-10:09:10.262 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-10:09:10.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-10:34:11.884 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-10:34:12.077 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-10:34:15.948 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-10:34:15.970 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-10:34:16.152 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-10:34:16.982 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-10:34:19.192 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-10:34:19.262 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-10:35:30.872 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-10:35:31.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-10:35:39.681 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-10:37:02.320 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-10:37:02.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-10:37:05.755 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-10:37:05.770 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-10:37:05.947 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-10:37:06.806 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-10:37:09.221 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-10:37:09.274 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-10:38:20.776 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-10:38:21.005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-10:38:26.959 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-10:38:28.227 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-10:38:28.228 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-10:38:28.393 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-10:38:29.194 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-10:38:30.409 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-10:38:30.479 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-10:40:32.468 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
-10:40:32.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\grid_docker.xml
-
-10:40:39.583 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-10:40:40.802 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-10:40:40.802 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-10:40:40.953 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-10:40:41.689 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-10:40:41.802 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-10:40:43.346 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:28:09.943 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:35:30.380 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:37:22.582 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:37:29.076 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:37:31.676 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:37:31.677 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:37:31.838 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:37:32.421 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:37:36.699 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:37:36.734 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-11:40:28.762 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:42:13.190 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:52:02.815 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-11:52:11.830 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-11:52:13.337 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-11:52:13.337 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-11:52:13.488 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-11:52:16.721 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-11:52:19.298 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-11:52:19.362 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-10:16:34.802 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-10:18:41.902 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
-10:18:50.938 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
-10:18:52.267 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
-10:18:52.267 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
-10:18:52.408 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
-10:18:53.148 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
-10:18:53.256 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
-10:18:54.167 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-10:28:21.570 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\chint\OneDrive\Desktop\Automation\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+17:44:15.179 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:44:18.574 [main] INFO  testCases.TC002_LoginTest - ****Started TC002_LoginTest****
+17:44:18.592 [main] INFO  testCases.TC002_LoginTest - Clicking on MyAccount
+17:44:18.852 [main] INFO  testCases.TC002_LoginTest - Clicking on Login
+17:44:20.177 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+17:44:20.371 [main] INFO  testCases.TC002_LoginTest - Checking whether Heading is displayed or not....
+17:44:21.415 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:44:24.558 [main] INFO  testCases.TC004_SearchTest - ***** Starting Search Test *****
+17:44:24.574 [main] INFO  testCases.TC004_SearchTest - Entering product name
+17:44:24.861 [main] INFO  testCases.TC004_SearchTest - Clicking search button
+17:44:25.319 [main] INFO  testCases.TC004_SearchTest - Validating search results
+17:44:25.401 [main] INFO  testCases.TC004_SearchTest - ***** Search Test Passed *****
+17:44:28.927 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Starting Invalid Search Test *****
+17:44:29.665 [main] INFO  testCases.TC005_SearchInvalidProductTest - ***** Invalid Search Test Passed *****
+17:44:32.627 [main] INFO  testCases.TC006_AddToCartTest - ***** Starting Add To Cart Test *****
+17:44:32.647 [main] INFO  testCases.TC006_AddToCartTest - Searching for product
+17:44:33.363 [main] INFO  testCases.TC006_AddToCartTest - Validating product availability
+17:44:33.434 [main] INFO  testCases.TC006_AddToCartTest - Opening product page
+17:44:34.052 [main] INFO  testCases.TC006_AddToCartTest - Adding product to cart
+17:44:34.255 [main] INFO  testCases.TC006_AddToCartTest - Validating success message
+17:44:34.518 [main] INFO  testCases.TC006_AddToCartTest - ***** Add To Cart Test Passed *****
+17:44:37.555 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Starting Remove From Cart Test *****
+17:44:39.283 [main] INFO  testCases.TC007_RemoveFromCartTest - Opening Shopping Cart
+17:44:39.890 [main] INFO  testCases.TC007_RemoveFromCartTest - Removing Product
+17:44:40.062 [main] INFO  testCases.TC007_RemoveFromCartTest - Validating Empty Cart Message
+17:44:40.469 [main] INFO  testCases.TC007_RemoveFromCartTest - ***** Remove From Cart Test Passed *****

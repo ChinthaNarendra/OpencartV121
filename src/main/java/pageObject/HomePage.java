@@ -11,60 +11,72 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePage extends BasePage {
 
-    WebDriver driver;
+	WebDriver driver;
 
-    // Constructor
-    public HomePage(WebDriver driver) {
+	// Constructor
+	public HomePage(WebDriver driver) {
 
-        super(driver);
+		super(driver);
 
-        this.driver = driver;
-    }
+		this.driver = driver;
+	}
 
-    // Locators
+	// Locators
 
-    @FindBy(xpath="//a[@title='My Account']")
-    WebElement lnkMyaccount;
+	@FindBy(xpath = "//a[@title='My Account']")
+	WebElement lnkMyaccountDropdown;
 
-    @FindBy(xpath="//a[normalize-space()='Register']")
-    WebElement lnkRegister;
-    
-    @FindBy(xpath="//a[normalize-space()='Login']")
-    WebElement lnkLogin;
+	@FindBy(xpath = "//a[normalize-space()='Register']")
+	WebElement lnkRegister;
 
-    // Action Methods
+	@FindBy(xpath = "//a[normalize-space()='Login']")
+	WebElement lnkLogin;
 
-    public void clickMyAccount() {
+	@FindBy(xpath = "//span[normalize-space()='My Account']")
+	WebElement lnkMyAccount;
 
-        WebDriverWait wait =
-                new WebDriverWait(driver, Duration.ofSeconds(15));
+	@FindBy(linkText = "My Account")
+	WebElement lnkMyAccountOption;
 
-        wait.until(ExpectedConditions.visibilityOfElementLocated(
-                By.xpath("//a[@title='My Account']")
-        ));
+	// Action Methods
 
-        lnkMyaccount.click();
-    }
+	public void clickMyAccount() {
 
-    public void clickRegister() {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
 
-        WebDriverWait wait =
-                new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[@title='My Account']")));
 
-        wait.until(ExpectedConditions.elementToBeClickable(lnkRegister));
+		lnkMyaccountDropdown.click();
+	}
 
-        lnkRegister.click();
-    }
-    
-    public void clickLogin() {
+	public void clickRegister() {
 
-        WebDriverWait wait =
-                new WebDriverWait(driver, Duration.ofSeconds(10));
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
-        wait.until(ExpectedConditions.elementToBeClickable(lnkLogin));
+		wait.until(ExpectedConditions.elementToBeClickable(lnkRegister));
 
-        lnkLogin.click();
-    }
-    
-    
+		lnkRegister.click();
+	}
+
+	public void clickLogin() {
+
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+		wait.until(ExpectedConditions.elementToBeClickable(lnkLogin));
+
+		lnkLogin.click();
+	}
+
+	public void clickMyAccountDropdown() {
+
+	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+	    wait.until(ExpectedConditions.elementToBeClickable(lnkMyaccountDropdown));
+
+	    lnkMyaccountDropdown.click();
+	}
+	public void clickMyAccountOption() {
+		lnkMyAccountOption.click();
+	}
+
 }

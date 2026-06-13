@@ -6,40 +6,38 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 
 public class LoginPage extends BasePage {
-	
-	//Constructor
+
+	// Constructor
 	public LoginPage(WebDriver driver) {
 		super(driver);
 	}
-	
-	//Locators
-	@FindBy(xpath="//input[@id='input-email']")
+
+	// Locators
+	@FindBy(xpath = "//input[@id='input-email']")
 	WebElement txtEmailAddress;
-	
-	@FindBy(xpath="//input[@id='input-password']")
+
+	@FindBy(xpath = "//input[@id='input-password']")
 	WebElement txtPassword;
-	
-	@FindBy(xpath="//input[@value='Login']")
+
+	@FindBy(xpath = "//input[@value='Login']")
 	WebElement btnLogin;
-	
-	
-	//Action Methods
+
+	// Action Methods
 	public void setEmail(String email) {
-		 txtEmailAddress.clear();
+		txtEmailAddress.clear();
 		txtEmailAddress.sendKeys(email);
 	}
-	
+
 	public void setPassword(String pwd) {
 		txtPassword.clear();
 		txtPassword.sendKeys(pwd);
 	}
-	
+
 	public void clickLogin() {
 		btnLogin.click();
-		//btnLogin.submit();
+		// btnLogin.submit();
 //		Actions act = new Actions(driver);
 //		act.moveToElement(btnLogin).click().perform();
 	}
-	
 
 }
